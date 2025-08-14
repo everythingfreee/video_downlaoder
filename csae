@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Safety Standards Against Child Sexual Abuse and Exploitation (CSAE) – Shaheer Video Downloader</title>
+  <meta name="description" content="Zero‑tolerance safety standards against child sexual abuse and exploitation (CSAE) for Shaheer Video Downloader. Reporting pathways, enforcement, and contact." />
+  <style>
+    :root{
+      --bg:#0f172a; /* slate-900 */
+      --card:#111827; /* gray-900 */
+      --text:#e5e7eb; /* gray-200 */
+      --muted:#9ca3af; /* gray-400 */
+      --accent:#22d3ee; /* cyan-400 */
+      --accent-2:#a78bfa; /* violet-400 */
+      --ok:#22c55e; /* green-500 */
+      --warn:#f59e0b; /* amber-500 */
+      --danger:#ef4444; /* red-500 */
+    }
+    html,body{height:100%}
+    body{margin:0;background:linear-gradient(135deg,var(--bg),#0b1024);color:var(--text);font:16px/1.6 system-ui,Segoe UI,Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji"}
+    .container{max-width:920px;margin:0 auto;padding:40px 20px}
+    .card{background:rgba(17,24,39,.6);backdrop-filter: blur(8px);border:1px solid rgba(255,255,255,.06);border-radius:20px;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:28px}
+    h1{font-size:clamp(28px,4vw,40px);line-height:1.1;margin:0 0 12px}
+    h2{font-size:clamp(20px,2.6vw,26px);margin:28px 0 8px;color:#fff}
+    h3{font-size:clamp(18px,2.2vw,22px);margin:22px 0 8px;color:#fff}
+    p,li{color:var(--text)}
+    .lead{color:#fff;font-size:1.05rem}
+    .tag{display:inline-block;padding:6px 10px;border-radius:999px;font-weight:600;background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#06111a;margin-bottom:14px}
+    .badge{font-size:.8rem;color:#06111a;background:linear-gradient(90deg,var(--ok),#86efac);padding:4px 10px;border-radius:999px;margin-left:8px}
+    a{color:var(--accent);text-decoration:underline}
+    .grid{display:grid;gap:14px}
+    .grid.cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+    @media (max-width:720px){.grid.cols-2{grid-template-columns:1fr}}
+    .note{border-left:4px solid var(--accent);background:rgba(34,211,238,.08);padding:12px 14px;border-radius:10px}
+    footer{margin-top:26px;font-size:.9rem;color:var(--muted)}
+    .list-check li{list-style:none;margin:8px 0;position:relative;padding-left:28px}
+    .list-check li:before{content:"✔";position:absolute;left:0;top:0;color:var(--ok)}
+    .list-x li{list-style:none;margin:8px 0;position:relative;padding-left:28px}
+    .list-x li:before{content:"✕";position:absolute;left:0;top:0;color:var(--danger)}
+    .kbd{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;background:#0b1024;border:1px solid rgba(255,255,255,.1);border-radius:6px;padding:2px 6px}
+  </style>
+</head>
+<body>
+  <main class="container">
+    <div class="card">
+      <span class="tag">Shaheer Video Downloader <span class="badge">Zero‑Tolerance Policy</span></span>
+      <h1>Safety Standards Against Child Sexual Abuse & Exploitation (CSAE)</h1>
+      <p class="lead">We operate a strict, zero‑tolerance policy toward child sexual abuse material (CSAM) and any form of child exploitation. Our app must <strong>never</strong> be used to create, download, store, share, or facilitate access to such content. Violations are removed and reported without delay.</p>
+
+      <h2>Scope</h2>
+      <p>These standards apply to all features of Shaheer Video Downloader, including downloading, saving, sharing, and viewing media obtained via the app.</p>
+
+      <h2>Prohibited Content</h2>
+      <ul class="list-x">
+        <li>Any material that depicts or sexualizes minors (under 18 years of age), including edited, AI‑generated, or simulated content.</li>
+        <li>Grooming, solicitation, or sexual exploitation of minors in any form.</li>
+        <li>Links, instructions, or tools intended to locate, trade, or distribute CSAM.</li>
+      </ul>
+
+      <h2>Enforcement Actions</h2>
+      <ul class="list-check">
+        <li><strong>Immediate removal</strong> of known or suspected CSAE content accessible via the app.</li>
+        <li><strong>Permanent bans</strong> for users who attempt to use the app for CSAE.</li>
+        <li><strong>Reports to appropriate authorities</strong>, including the <a href="https://www.missingkids.org/gethelpnow/cybertipline" target="_blank" rel="noopener">NCMEC CyberTipline</a> (where applicable) and/or local law‑enforcement.</li>
+        <li><strong>Cooperation with law enforcement</strong> consistent with applicable laws and due process.</li>
+      </ul>
+
+      <h2>Detection & Review</h2>
+      <p>We investigate user reports promptly and prioritize child safety. If CSAE is suspected, we preserve minimal necessary information to support lawful reporting and investigations.</p>
+
+      <div class="grid cols-2">
+        <section>
+          <h3>How to Report Suspected CSAE</h3>
+          <ol>
+            <li>Contact us: <a href="mailto:sourcecode6727@gmail.com">support@shaheervideodownloader.app</a></li>
+            <li>Include relevant details (URLs, timestamps, platform/source).</li>
+            <li>Do <strong>not</strong> share or forward illegal content. Provide descriptions only.</li>
+          </ol>
+        </section>
+        <section>
+          <h3>External Reporting</h3>
+          <p>You may also report directly to your local authority. If you are in the United States, use the <a href="https://www.missingkids.org/gethelpnow/cybertipline" target="_blank" rel="noopener">NCMEC CyberTipline</a>. In other regions, contact national hotlines or law‑enforcement agencies responsible for child protection.</p>
+        </section>
+      </div>
+
+      <h2>User Responsibilities</h2>
+      <ul class="list-check">
+        <li>Only download content you have a legal right to access.</li>
+        <li>Never search for, save, or share content that exploits minors.</li>
+        <li>Report suspected CSAE immediately via the channels above.</li>
+      </ul>
+
+      <h2>Privacy & Data Handling</h2>
+      <p>We do not scan unrelated device data. For CSAE reports, we retain only what is necessary to fulfill legal reporting duties and protect users, consistent with our Privacy Policy.</p>
+
+      <h2>Commitment to Continuous Improvement</h2>
+      <p>We regularly review these standards and our moderation workflows to meet or exceed evolving best practices and legal requirements.</p>
+
+      <div class="note">
+        <strong>Important:</strong> If a child is in immediate danger, contact your local emergency number right away.
+      </div>
+
+      <footer>
+        <p>Publisher: Shaheer Video Downloader • Contact: <a href="mailto:sourcecode6727@gmail.com">support@shaheervideodownloader.app</a></p>
+        <p>Last updated: August 14, 2025</p>
+      </footer>
+    </div>
+  </main>
+</body>
+</html>
